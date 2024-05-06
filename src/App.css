@@ -1,0 +1,22 @@
+body {
+  box-sizing: border-box;
+  font-family: 'Ubuntu', sans-serif, 16px;
+}
+
+.main_title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.main_block {
+  display: flex;
+  justify-content: space-between;
+  max-width: 70%; 
+  margin: 0 auto;
+}
+.block {
+  text-align: center;
+  width: 40%;
+  margin: 40px;
+}
